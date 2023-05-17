@@ -1,0 +1,30 @@
+.search{
+    border: 1px solid grey;
+    padding: 0 5px;
+    font-size: 13px;
+    width: 300px;
+    margin: 0 22vw;
+}
+.searchForm{
+    margin: 0 15vw;
+}
+.input-search{
+    border: none;
+    outline: none;
+    width: 300px;
+}
+@media only screen and (max-width: 1152px) {
+.search{
+    margin: 0 18vw;
+}
+}
+@media only screen and (max-width: 1009px) {
+.search{
+    margin: 0 10vw;
+}
+}
+@media only screen and (max-width: 1005px) {
+.search{
+    margin: 0;
+}
+}
